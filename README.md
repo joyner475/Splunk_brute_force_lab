@@ -4,7 +4,8 @@
 
 ### Architecture
 [ Windows 10 (JOYNER) - Splunk Universal Forwarder ] ---> [ Ubuntu - Splunk Enterprise - index=wineventlog ]
-![image alt]()
+
+![image alt](https://github.com/joyner475/Splunk_brute_force_lab/blob/a2a4c7ee92a4856a7d75cfbb153580e23a2f1a00/Screenshot%202026-09-21%20092436.png)
 
 ### Tools Used
 - Splunk Enterprise 9.x (Ubuntu Server)
