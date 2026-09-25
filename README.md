@@ -11,6 +11,7 @@
 - Splunk Enterprise 9.x (Ubuntu Server)
 - Splunk Universal Forwarder (Windows 10)
 - Windows Event Logs: Security, Application
+- Sysmon
 - VirtualBox
 
 ### What I Built & Fixed
